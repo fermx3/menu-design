@@ -1,0 +1,34 @@
+body {
+  background-image: url("https://static.wixstatic.com/media/67c849_54a9f2dc3909431089cab43c5c560b6d~mv2.jpg");
+}
+
+.navbar-light {
+  color: #FF0080;
+}
+
+.navbar-brand {
+  color: #FF0080;
+}
+
+.circle {
+  font-size: 0.8rem;
+  color: #E2A931;
+}
+
+h4 {
+  color: green;
+}
+
+h2 {
+  color: #FF0080;
+  font-weight: bold;
+}
+
+p {
+  color: #B44127;
+}
+
+.lead {
+  color: green;
+  font-weight: bold;
+}
