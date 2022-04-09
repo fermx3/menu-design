@@ -1,10 +1,7 @@
 body {
   background-image: url("https://static.wixstatic.com/media/67c849_54a9f2dc3909431089cab43c5c560b6d~mv2.jpg");
   font-family: 'Poppins', sans-serif;
-}
-
-.bg {
-  background-color: #d5f0fa;
+  color: white;
 }
 
 .navbar-light {
