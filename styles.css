@@ -1,5 +1,10 @@
 body {
   background-image: url("https://static.wixstatic.com/media/67c849_54a9f2dc3909431089cab43c5c560b6d~mv2.jpg");
+  font-family: 'Poppins', sans-serif;
+}
+
+.bg {
+  background-color: #d5f0fa;
 }
 
 .navbar-light {
@@ -10,6 +15,19 @@ body {
   color: #FF0080;
 }
 
+.btn-outline-danger {
+  border-color: #FF0080;
+  color: #FF0080;
+}
+
+.btn-outline-danger:hover {
+  background-color: #FF0080;
+}
+
+.offcanvas-title {
+  font-family: 'Montserrat', sans-serif;
+}
+
 .circle {
   font-size: 0.8rem;
   color: #E2A931;
@@ -17,23 +35,39 @@ body {
 
 h4 {
   color: green;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1rem;
 }
 
 h2 {
   color: #FF0080;
   font-weight: bold;
+  font-family: 'Chewy', cursive;
 }
 
 p {
   color: #B44127;
+  font-family: 'Poppins', sans-serif;
+  font-size: 0.8rem;
+}
+
+.text-muted {
+  font-size: 0.7rem;
 }
 
 .lead {
-  color: green;
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+.price {
+  color: #B44127;
+  font-size: 1rem;
   font-weight: bold;
 }
 
 .full-img {
-  max-width: 150px;
-  height: auto;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
 }
