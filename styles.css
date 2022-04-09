@@ -32,3 +32,8 @@ p {
   color: green;
   font-weight: bold;
 }
+
+.full-img {
+  max-width: 150px;
+  height: auto;
+}
