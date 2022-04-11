@@ -45,7 +45,7 @@ h2 {
 p {
   color: #B44127;
   font-family: 'Poppins', sans-serif;
-  font-size: 0.8rem;
+  font-size: 0.9rem;
 }
 
 .text-muted {
@@ -67,4 +67,8 @@ p {
   width: 100px;
   height: 100px;
   object-fit: cover;
+}
+
+.text-box {
+  width: 100%;
 }
