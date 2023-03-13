@@ -1,11 +1,11 @@
 body {
-  background-image: url("https://static.wixstatic.com/media/67c849_54a9f2dc3909431089cab43c5c560b6d~mv2.jpg");
+  background-image: url('https://static.wixstatic.com/media/67c849_54a9f2dc3909431089cab43c5c560b6d~mv2.jpg');
   font-family: 'Poppins', sans-serif;
   color: white;
 }
 
 h2 {
-  color: #FF0080;
+  color: #ff0080;
   font-weight: bold;
   font-family: 'Chewy', cursive;
 }
@@ -18,31 +18,35 @@ h4 {
 }
 
 p {
-  color: #B44127;
+  color: #b44127;
   font-family: 'Poppins', sans-serif;
   font-size: 0.9rem;
 }
 
 .navbar {
-  color: #FF0080;
+  color: #ff0080;
 }
 
 .btn-outline-danger {
-  border-color: #FF0080;
-  color: #FF0080;
+  border-color: #ff0080;
+  color: #ff0080;
 }
 
 .btn-outline-danger:hover {
-  background-color: #FF0080;
+  background-color: #ff0080;
 }
 
 .btn-light {
-  color: #FF0080;
+  color: #ff0080;
+}
+
+.logo-header {
+  filter: drop-shadow(2px 4px 6px black);
 }
 
 .circle {
   font-size: 0.8rem;
-  color: #E2A931;
+  color: #e2a931;
 }
 
 .text-muted {
@@ -56,7 +60,7 @@ p {
 }
 
 .price {
-  color: #B44127;
+  color: #b44127;
   font-size: 1rem;
   font-weight: bold;
 }
